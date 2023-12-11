@@ -19,6 +19,5 @@ If you find our work useful in your research, please consider citing:
   year={2024},
   publisher={Elsevier}
 }
-}
 ```
 Please contact us at lili3@stu.kust.edu.cn for questions.
