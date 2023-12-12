@@ -2,7 +2,7 @@
 > **Authors:**
 Li Li, Zhenqiu Shu, Zhengtao Yu, Xiao-Jun Wu
 
-This repo contains the code and data of our Pattern Recognition'2024 paper [Robust online hashing with label semantic enhancement for cross-modal retrieval](https://doi.org/10.1016/j.patcog.2023.109972).
+It contains the code and data of our Pattern Recognition'2024 paper [Robust online hashing with label semantic enhancement for cross-modal retrieval](https://doi.org/10.1016/j.patcog.2023.109972).
 
 <!-- > [Robust online hashing with label semantic enhancement for cross-modal retrieval](https://doi.org/10.1016/j.patcog.2023.109972) -->
 ## Citation
